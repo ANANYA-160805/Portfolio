@@ -1,0 +1,27 @@
+.cursor-dot {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 6px;
+  height: 6px;
+  background: #f5f1eb;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 10000;
+  will-change: transform;
+}
+
+.cursor-glow {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 1;
+  background: radial-gradient(circle, rgba(241, 129, 31, 0.25), rgba(196, 107, 31, 0.08), transparent 70%);
+  filter: blur(35px);
+  opacity: 0.85;
+  will-change: transform;
+}/*# sourceMappingURL=cursor.css.map */

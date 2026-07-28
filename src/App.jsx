@@ -7,7 +7,10 @@ import {
   ScrollToPlugin,
 } from "gsap/all";
 
+
 import WarpSpeed from "./components/warp/Warp";
+import Cursor from "./ui/cursor/Cursor";
+import Navbar from "./components/NavBar/Navbar";
 
 
 
@@ -28,6 +31,10 @@ const App = () => {
  return (
     <>
       <WarpSpeed />
+        <Cursor />
+          <div id="smooth-wrapper">
+          <Navbar />
+          </div>
       
     </>
   );
