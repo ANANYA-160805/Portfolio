@@ -1,3 +1,3 @@
-export const name = 'Ananya'
+export const name = 'Ananya Sinha'
 export const tagline = 'FULL-STACK ENGINEER • CREATIVE TECHNOLOGIST'
 export const scrollIndicator = 'Scroll down to explore'

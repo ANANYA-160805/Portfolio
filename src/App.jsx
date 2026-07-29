@@ -11,6 +11,10 @@ import {
 import WarpSpeed from "./components/warp/Warp";
 import Cursor from "./ui/cursor/Cursor";
 import Navbar from "./components/NavBar/Navbar";
+import Hero from "./components/Hero/Hero";
+import AboutMe from "./components/AboutMe/AboutMe";
+import Experience from "./components/Experience/Experience";
+import TechStack from "./components/TechStack/TechStack";
 
 
 
@@ -34,6 +38,12 @@ const App = () => {
         <Cursor />
           <div id="smooth-wrapper">
           <Navbar />
+          <div id="smooth-content">
+          <Hero />
+          <AboutMe />
+           <Experience />
+           <TechStack/>
+          </div>
           </div>
       
     </>

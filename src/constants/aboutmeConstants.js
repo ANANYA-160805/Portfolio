@@ -1,3 +1,3 @@
-export const aboutmeDescription ="I’m Ananya Sinha, a full-stack software engineer focused on building reliable, scalable products. I design clean backend architecture, craft secure APIs and microservices, and ship fast, responsive interfaces—turning complex ideas into polished experiences that perform in the real world."
+export const aboutmeDescription ="Hi, I'm Ananya Sinha—a full-stack developer focused on building fast, secure, and user-friendly web applications. I enjoy designing scalable backend systems, developing intuitive React interfaces, and turning ideas into products that people can actually use."
 export const tagline = "I'm mostly the following"
 export const tags = ["I DESIGN", "I DEVELOP", "I GET THINGS DONE"]
