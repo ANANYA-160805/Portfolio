@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import { createPortal } from "react-dom";
 import gsap from "gsap";
-import "./Cursor.scss";
+import "./cursor.scss";
 
 export default function Cursor() {
   const dotRef = useRef(null);

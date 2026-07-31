@@ -1,5 +1,4 @@
 
-
 import React, { useEffect, useRef, useState } from "react";
 import "./Projects.scss";
 import portfolioImg from "../../assets/images/common/portfolio.png";
