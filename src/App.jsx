@@ -8,7 +8,7 @@ import {
 } from "gsap/all";
 
 
-import WarpSpeed from "./components/warp/Warp";
+import WarpSpeed from "./components/Warp/Warp";
 import Cursor from "./ui/cursor/cursor";
 import Navbar from "./components/NavBar/NavBar";
 import Hero from "./components/Hero/Hero";
