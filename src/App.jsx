@@ -9,13 +9,13 @@ import {
 
 
 import WarpSpeed from "./components/warp/Warp";
-import Cursor from "./ui/cursor/Cursor";
-import Navbar from "./components/NavBar/Navbar";
+import Cursor from "./ui/cursor/cursor";
+import Navbar from "./components/NavBar/NavBar";
 import Hero from "./components/Hero/Hero";
 import AboutMe from "./components/AboutMe/AboutMe";
 import Experience from "./components/Experience/Experience";
 import TechStack from "./components/TechStack/TechStack";
-import Projects from "./components/Projects/projects";
+import Projects from "./components/Projects/Projects";
 import Contact from "./components/Contact/Contact";
 
 
