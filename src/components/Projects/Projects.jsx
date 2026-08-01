@@ -60,7 +60,7 @@ const PROJECTS = [
     image: portfolioImg,
     tags: ["React", "GSAP", "ScrollTrigger", "SCSS", "Vite"],
     links: [
-      { label: "Live Demo", href: "", icon: "↗" },
+      { label: "Live Demo", href: "https://portfolio-2mun-liard.vercel.app/", icon: "↗" },
       {
         label: "Source Code",
         href: "https://github.com/ANANYA-160805/Portfolio.git",
